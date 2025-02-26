@@ -12,7 +12,7 @@ This repository contains artifacts from my CS 320 coursework, showcasing my skil
 - `ContactServiceTest.java` – Unit tests for the ContactService class.  
 
 ### Project Two  
-- `Summary_and_Reflections_Report.pdf` – A reflection on software testing strategies, automation benefits, and quality assurance best practices.  
+- `Summary_and_Reflections_Report.doc` – A reflection on software testing strategies, automation benefits, and quality assurance best practices.  
 
 ## Reflection  
 
